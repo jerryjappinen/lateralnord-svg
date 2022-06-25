@@ -1,7 +1,7 @@
 {
   "name": "lateralnord-svg",
   "version": "1.0.0",
-  "description": "Lateral Nord icons and svg assets.",
+  "description": "Icon set for Lateral Nord projects.",
   "main": "index.js",
   "scripts": {
     "patch": "npm version patch -m \"New patch version\" && npm publish && git push -u",
