@@ -10,6 +10,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/lateralnord/lateralnord-svg.git"
+    "url": "git@github.com:jerryjappinen/lateralnord-svg.git"
   }
 }
