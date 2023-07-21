@@ -1,14 +1,14 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_1_1310)">
-<mask id="mask0_1_1310" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g clip-path="url(#clip0_1406_3323)">
+<mask id="mask0_1406_3323" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
 <path d="M16 0H0V16H16V0Z" fill="white"/>
 </mask>
-<g mask="url(#mask0_1_1310)">
-<path d="M1.76219 0L0.719925 2.77946V13.8959H4.53978V15.9815H6.62527L8.70864 13.8959H11.8346L16.0035 9.72864V0H1.76219ZM3.15077 1.38885H14.6143V9.03232L12.1822 11.4647H8.36168L6.27889 13.5474V11.4647H3.15077V1.38885ZM6.97216 8.3384H8.36168V4.16978H6.97216V8.3384ZM10.7929 8.3384H12.1822V4.16978H10.7929V8.3384Z" fill="#FF00FF"/>
+<g mask="url(#mask0_1406_3323)">
+<path d="M1.76199 0L0.719727 2.77946V13.8959H4.53958V15.9815H6.62507L8.70844 13.8959H11.8344L16.0033 9.72864V0H1.76199ZM3.15057 1.38885H14.6141V9.03232L12.182 11.4647H8.36148L6.27869 13.5474V11.4647H3.15057V1.38885ZM6.97197 8.3384H8.36148V4.16978H6.97197V8.3384ZM10.7927 8.3384H12.182V4.16978H10.7927V8.3384Z" fill="#FF00FF"/>
 </g>
 </g>
 <defs>
-<clipPath id="clip0_1_1310">
+<clipPath id="clip0_1406_3323">
 <rect width="16" height="16" fill="white"/>
 </clipPath>
 </defs>

@@ -1,19 +1,19 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_1_695)">
+<g clip-path="url(#clip0_1406_3431)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M8.66648 0.665263L15.5296 7.52842C15.7759 7.77501 15.7759 8.17448 15.5296 8.42104L13.2475 10.7031L13.1675 10.7831L8.0012 15.9494L5.19279 13.141L0.472794 8.42104C0.226517 8.17448 0.226517 7.77501 0.472794 7.52842L2.8349 5.16631L8.0012 0L8.66648 0.665263ZM5.64332 7.97474L8.0012 10.3326L10.3591 7.97474L8.0012 5.61684L5.64332 7.97474Z" fill="#2684FF"/>
-<path d="M8.00104 5.61682C6.45729 4.07286 6.44976 1.57214 7.98422 0.0189209L2.82422 5.17682L5.63264 7.98524L8.00104 5.61682Z" fill="url(#paint0_linear_1_695)"/>
-<path d="M10.3654 7.96844L8.00122 10.3327C8.74634 11.0773 9.16498 12.0876 9.16498 13.1411C9.16498 14.1945 8.74634 15.2048 8.00122 15.9495L13.1739 10.7769L10.3654 7.96844Z" fill="url(#paint1_linear_1_695)"/>
+<path d="M8.00104 5.61682C6.45729 4.07286 6.44976 1.57214 7.98422 0.0189209L2.82422 5.17682L5.63264 7.98524L8.00104 5.61682Z" fill="url(#paint0_linear_1406_3431)"/>
+<path d="M10.3651 7.96838L8.00098 10.3326C8.7461 11.0772 9.16474 12.0876 9.16474 13.141C9.16474 14.1944 8.7461 15.2048 8.00098 15.9494L13.1736 10.7768L10.3651 7.96838Z" fill="url(#paint1_linear_1406_3431)"/>
 </g>
 <defs>
-<linearGradient id="paint0_linear_1_695" x1="6.51017" y1="0.698141" x2="2.53583" y2="2.37648" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_1406_3431" x1="6.51017" y1="0.698141" x2="2.53583" y2="2.37648" gradientUnits="userSpaceOnUse">
 <stop offset="0.18" stop-color="#0052CC"/>
 <stop offset="1" stop-color="#2684FF"/>
 </linearGradient>
-<linearGradient id="paint1_linear_1_695" x1="9.51666" y1="15.2259" x2="13.4835" y2="13.5595" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint1_linear_1406_3431" x1="9.51642" y1="15.2258" x2="13.4832" y2="13.5595" gradientUnits="userSpaceOnUse">
 <stop offset="0.18" stop-color="#0052CC"/>
 <stop offset="1" stop-color="#2684FF"/>
 </linearGradient>
-<clipPath id="clip0_1_695">
+<clipPath id="clip0_1406_3431">
 <rect width="16" height="16" fill="white"/>
 </clipPath>
 </defs>
