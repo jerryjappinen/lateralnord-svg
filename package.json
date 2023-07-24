@@ -1,6 +1,6 @@
 {
   "name": "lateralnord-svg",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Icon set for Lateral Nord projects.",
   "main": "index.js",
   "scripts": {
